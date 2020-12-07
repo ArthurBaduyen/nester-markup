@@ -10284,30 +10284,6 @@ h3 {
   color: #c4c4c4;
 }
 
-.truncate {
-  margin: 0;
-  display: block;
-  line-height: 1.5em;
-  width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  vertical-align: middle;
-  height: 1.5em;
-}
-.truncate .auto-truncate {
-  width: auto;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.truncate .line-through {
-  text-decoration: line-through;
-}
-.truncate .rotate45 {
-  transform: rotate(-45deg) !important;
-}
-
 .logo {
   height: 100%;
   width: 100%;
